@@ -392,7 +392,7 @@ def _get_deconv_out_padding(inSize: list, outSize: list, kernel: tuple, stride: 
 
 ''' Write model to disk '''
 def save_model(baseDir: Path, network: torch.nn.Module, epoch: int,
-               optimizer: torch.optim, amp=None, lr=None, version=1.9, postfix=CONFIG['MODEL']):
+               optimizer: torch.optim, amp=None, lr=None, version=1.9, postfix="acrt"):
     if CONFIG["HAS_AMP"]:
         if version < 1.6:
             date = time.strftime(f"{CONFIG['DATASET']}-%Y%m%d-%H%M%S-Epoch-{epoch}_{postfix}_"
