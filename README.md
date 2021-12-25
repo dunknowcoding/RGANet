@@ -10,7 +10,7 @@
 ```
 ## Requirements
 python >= 3.5  
-pytorch >= 1.0.0
+pytorch >= 1.0.0  
 **(optional)** [thop](https://github.com/Lyken17/pytorch-OpCounter), [apex](https://github.com/NVIDIA/apex), [tqdm](https://github.com/tqdm/tqdm)
 ## Demo
 * Create the folder `checkpoint` in the root directory, [download](https://drive.google.com/file/d/1RhP3PK2sjW0Xsh0tOGGya_wz8EcOfOtV/view?usp=sharing) our pretrained checkpoint (53.1MB) to the folder, then run the demo:    
