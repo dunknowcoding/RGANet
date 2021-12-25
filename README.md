@@ -1,7 +1,7 @@
 # RGANet
 **Official Pytorch implementation for the journal article:**
 ```
-    @article{mo2021rganet,  
+    @article{mo2022rganet,  
         title = {Realtime Global Attention Network for Semantic Segmentation},
         author = {Mo, Xi and Chen, Xiangyu},
         journal = {IEEE Robotics and Automation Letters with ICRA presentation},
