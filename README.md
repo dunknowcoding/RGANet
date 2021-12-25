@@ -8,7 +8,7 @@
         year={2022}
     }
 ```  
-<a href="https://drive.google.com/uc?export=view&id=1omq84eEIY5sjruHC3MZFUU0ZZ57fbaId"><img src="https://drive.google.com/uc?export=view&id=1omq84eEIY5sjruHC3MZFUU0ZZ57fbaId" style="width: 950px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=1omq84eEIY5sjruHC3MZFUU0ZZ57fbaId"><img src="https://drive.google.com/uc?export=view&id=1omq84eEIY5sjruHC3MZFUU0ZZ57fbaId" style="width: 980px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 ## Requirements
 python >= 3.5  
 pytorch >= 1.0.0  
