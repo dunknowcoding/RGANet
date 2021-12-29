@@ -42,8 +42,8 @@ parser.add_argument("-v", "--validate", action = "store_true",
                     help = "Validate tesing results using metrics")
 
 CONFIG = {
-    "DATASET":  "suction",               # choose dataset, select from "suction", "cityscape", "camvid"
-                                                            # "RGANet_fast", "RGANet_acrt"
+    "DATASET":  "suction",               # choose dataset, we only provide this option
+                                                          
     "POSTFIX": ".png",                       # label/sample image postfix to read or save as
     "SIZE": (480, 640),                         # input size specification: (H, W), must be divisible by 32
     "HAS_NORM": False,                                                         # normailzationm,for samples only
