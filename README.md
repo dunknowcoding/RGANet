@@ -4,8 +4,14 @@
     @article{mo2022rganet,  
         title = {Realtime Global Attention Network for Semantic Segmentation},
         author = {Mo, Xi and Chen, Xiangyu},
-        journal = {IEEE Robotics and Automation Letters with ICRA 2022 presentation},
-        year={2021}
+        journal = {IEEE Robotics and Automation Letters},
+        year = {2022},
+        month = jan,
+        volumn = {7},
+        number = {2},
+        pages = {1574-1580},
+        publisher = {IEEE},
+        doi = {10.1109/LRA.2022.3140443}
     }
 ```  
 
